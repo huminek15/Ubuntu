@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #144;
+    color: white;
+}
+button {
+    font-size: 24px;
+    padding: 10px 20px;
+}
